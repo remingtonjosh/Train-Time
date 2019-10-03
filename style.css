@@ -1,0 +1,41 @@
+body {
+  color: black;
+  background: url(https://images.unsplash.com/38/1Di8seNRo6bK8c9xq5Cw_Italia%20Ferris.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-position: center top;
+  background-size: 100% auto;
+}
+
+th {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: rgba(175, 81, 74, 0.9);
+  width: 60%;
+  margin: auto;
+  height: 200px;
+  text-align: center;
+  color: white;
+}
+
+.table {
+  color: rgb(255, 255, 255);
+}
+
+.panel {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.panel {
+  background: rgb(66, 66, 66) !important;
+}
+
+strong {
+  color: brown;
+}
+
+.btn {
+  color: brown;
+}
